@@ -1,5 +1,5 @@
 {
-    "name": "ajtarragona/mailrelay-client",
+    "name": "joseimagina/mailrelay-client",
     "description": "Client Laravel de la API Rest de MailRelay",
     "keywords" : ["laravel5","laravel"],
     "type": "library",
@@ -10,7 +10,6 @@
             "email": "tmedrano@tarragona.cat"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": "^7.3|^8.0",
         "laravel/framework": "^8.54",
