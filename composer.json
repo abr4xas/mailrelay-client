@@ -1,5 +1,5 @@
 {
-    "name": "ajtarragona/mailrelay-client",
+    "name": "joseimagina/mailrelay-client",
     "description": "Client Laravel de la API Rest de MailRelay",
     "keywords" : ["laravel5","laravel"],
     "type": "library",
@@ -12,9 +12,9 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=7.0.0",
-        "laravel/framework": "^6.0",
-        "guzzlehttp/guzzle": "^6.3"
+        "php": "^7.3|^8.0",
+        "laravel/framework": "^8.54",
+        "guzzlehttp/guzzle": "^7.0.1"
     },
     "autoload": {
         "psr-4": {
